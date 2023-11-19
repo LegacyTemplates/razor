@@ -8,7 +8,7 @@
 
     $ dotnet tool install -g x
 
-    $ x new razor ProjectName
+    $ x new LegacyTemplates/razor ProjectName
 
 Alternatively write new project files directly into an empty repository, using the Directory Name as the ProjectName:
 
